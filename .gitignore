@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Next.js build output
+.next/
+out/
+
+# .NET build output
+bin/
+obj/
+App_Data/
+
+# IDEs and Editors
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Nested Git Repositories (separate projects)
+Animated_Portfolio_Website/
+PortfolioWebsite/
+
+# Local env files
+.env*.local
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
